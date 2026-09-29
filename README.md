@@ -18,12 +18,12 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│                  PROFILE STATUS                           │
+│                  PROFILE STATUS                  │
 ├──────────────────────────────────────────────────┤
-│  OS / LAB     Linux • Debian • Termux                     │
-│  FOCUS        Web • Automation • Security                 │
-│  BUILD        Tools • Scripts • Applications              │
-│  APPROACH     Learn → Build → Test → Improve            │
+│  OS / LAB     Linux • Debian • Termux            │
+│  FOCUS        Web • Automation • Security        │
+│  BUILD        Tools • Scripts • Applications     │
+│  APPROACH     Learn → Build → Test → Improve     │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -46,7 +46,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,debian,android,bash,python,js,html,css,git,github,vscode&perline=11" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=linux,debian,androidstudio,bash,python,js,html,css,git,github,vscode&perline=11" alt="Technology stack">
 
 </div>
 
@@ -71,13 +71,10 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 <div align="center">
 
-<a href="https://github.com/lanafaga091-create">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lanafaga091-create&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
-</a>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details">
 
-<a href="https://github.com/lanafaga091-create">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanafaga091-create&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&langs_count=8" alt="Most used languages">
-</a>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" width="49%">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%">
 
 </div>
 
@@ -87,7 +84,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lanafaga091-create&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&title=Contribution%20Activity" alt="GitHub activity graph">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time">
 
 </div>
 
@@ -160,8 +157,8 @@ I prefer projects that are useful, understandable, and easy to improve.
 
 <div align="center">
 
-<a href="https://github.com/lanafaga091-create">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lanafaga091-create&repo=PasarKita&theme=transparent&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&hide_border=true" alt="PasarKita repository">
+<a href="https://github.com/lanafaga091-create/PasarKita">
+  <img src="https://img.shields.io/badge/PasarKita-Repository-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="PasarKita repository">
 </a>
 
 </div>
