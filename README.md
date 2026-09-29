@@ -1,146 +1,236 @@
-<div align="center">
+<div align="center">"LANAFAga091"
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=TAMAAEL&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20LINUX%20%E2%80%A2%20AUTOMATION&descAlignY=55&descSize=20" width="100%" />
+"DEVELOPER" • "LINUX" • "CYBERSECURITY" • "AUTOMATION"
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+the+Future+with+AI+%26+Security+%F0%9F%94%90;Turning+Coffee+into+Code+%E2%98%95;Automating+Everything+Possible+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Tools+%26+Web+Projects;Linux+%7C+Debian+%7C+Android;Cybersecurity+%26+CTF+Learning;Automation+%7C+AI+%7C+Open+Source" alt="Typing SVG" /><br>""GitHub" (https://img.shields.io/badge/GitHub-lanafaga091--create-181717?style=for-the-badge&logo=github)" (https://github.com/lanafaga091-create)
+""Profile Views" (https://komarev.com/ghpvc/?username=lanafaga091-create&style=for-the-badge&color=00ff88)" (https://github.com/lanafaga091-create)
 
-<!-- PROFILE BADGES -->
+</div>---
+
+"> whoami"
+
+┌─────────────────────────────────────────────────────────────┐
+│                     LANAFAga091                             │
+├─────────────────────────────────────────────────────────────┤
+│ Role        : Developer / Security Enthusiast               │
+│ Environment : Linux • Debian • Android • Termux             │
+│ Focus       : Web Development • Automation • Cybersecurity  │
+│ Learning    : Security Research • Linux • AI • CTF          │
+│ Philosophy  : Build • Learn • Test • Improve                │
+└─────────────────────────────────────────────────────────────┘
+
+I'm a developer interested in building practical software, experimenting with Linux environments, automation, web applications, and cybersecurity learning projects.
+
+I enjoy turning ideas into working projects and continuously improving them through testing and experimentation.
+
+---
+
+"> current_focus"
+
+- 🐧 Linux & Debian environments
+- 📱 Android + Termux workflows
+- 🌐 Web application development
+- 🔐 Cybersecurity & authorized security testing
+- 🤖 AI-assisted development
+- ⚙️ Automation & scripting
+- 🧪 CTF and security laboratories
+- 🚀 Open-source projects
+
+---
+
+"> tech_stack"
+
+Languages
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=lanafaga091-create&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/lanafaga091-create?tab=followers">
-    <img src="https://img.shields.io/github/followers/lanafaga091-create?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/lanafaga091-create?label=Stars&style=for-the-badge&color=f1e05a&labelColor=0d1117" alt="Stars" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,php" />
+</p>Frameworks & Development
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,tailwind" />
+</p>Systems & Tools
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=linux,debian,git,github,docker,vscode" />
+</p>Databases
 
-## 🧠 About Me
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>---
 
-```python
-class Tamaael:
-    def __init__(self):
-        self.name = "TAMAAEL"
-        self.username = "lanafaga091-create"
-        self.location = "Indonesia 🇮🇩"
-        self.email = "lanafaga091@gmail.com"
+"> cybersecurity_lab"
 
-        self.focus = ["AI Agents", "Cybersecurity", "Linux", "Automation"]
-        self.currently_learning = ["Machine Learning", "Ethical Hacking", "Cloud Security"]
-        self.mindset = "Learn by Building 🔨"
+My security-related work is focused on learning, CTFs, defensive research, and authorized testing.
 
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Code",
-            "afternoon": "🔐 Security Research",
-            "evening": "🤖 Build AI Agents",
-            "night": "📚 Learn Something New"
-        }
+Areas of interest
 
-    def life_philosophy(self):
-        return "Build something interesting. Understand how it works. Make it better. 🚀"
+[01] Reconnaissance
+[02] Web Security
+[03] Network Security
+[04] Vulnerability Research
+[05] Digital Forensics
+[06] Linux Security
+[07] CTF / Security Labs
+[08] Security Automation
 
-me = Tamaael()
-```
+Tools I work with
 
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🔐 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 🐧 Linux & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### ⚡ Automation & Tools
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge" />
+</p>«Tools are used only in environments where I have permission to test.»
 
 ---
 
-## 📊 GitHub Statistics
+"> linux_environment"
 
-<div align="center">
+$ uname -a
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanafaga091-create&theme=midnight-purple&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" height="180" alt="GitHub Streak" />
+Linux Android-Termux
+Architecture: ARM64
+Environment : Debian
+Shell       : Bash
+Desktop     : XFCE
+Terminal    : Termux:X11
 
-</div>
+Linux interests
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🧠 AI & Agents | 🔐 Cybersecurity | 🐧 Linux | ⚡ Automation |
-|:---:|:---:|:---:|:---:|
-| Recommendation Systems | Ethical Hacking | System Administration | Workflow Automation |
-| Autonomous Agents | Penetration Testing | Shell Scripting | CI/CD Pipelines |
-| LLM Integration | Security Automation | Server Hardening | Bot Development |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lanafaga091-create)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lanafaga091@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-</div>
+- Debian ARM64
+- XFCE customization
+- Termux / Termux:X11
+- Linux automation
+- Shell scripting
+- Package management
+- Server configuration
+- Development environments
 
 ---
 
-## 💡 Random Dev Quote
+"> featured_projects"
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
+🛒 PasarKita
+
+A web application project used as a development and authorized security-testing laboratory.
+
+Focus: Web Development • Security Testing • Local Laboratory
+
+""Repository" (https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)" (https://github.com/lanafaga091-create/PasarKita)
 
 ---
 
-<div align="center">
+🐧 Debian Security Environment
 
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:0d1117,100:6e40c9&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
+A customized Debian + XFCE environment designed around Linux tools, security utilities, and an organized application menu.
 
-**⭐ Star my repositories if you find them interesting! ⭐**
+Focus: Debian • ARM64 • XFCE • Linux Automation
 
-*"Build something interesting. Understand how it works. Make it better."*
+---
+
+🖥️ Linux / Android Tools
+
+Experiments involving Linux environments running on Android through Termux, including automation, system configuration, and development workflows.
+
+Focus: Android • Termux • Debian • ARM64
+
+---
+
+"> development_style"
+
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       BUILD → TEST → DEBUG → IMPROVE       ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+I prefer practical projects where I can:
+
+- Build something from scratch
+- Test it in a controlled environment
+- Find problems
+- Fix and improve the implementation
+- Document the result
+- Share useful tools and knowledge
+
+---
+
+"> github_statistics"
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=lanafaga091-create&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanafaga091-create&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=ffffff" /></div>---
+
+"> contribution_activity"
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lanafaga091-create&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" /></div>---
+
+"> activity_graph"
+
+<div align="center">""Lana's github activity graph" (https://github-readme-activity-graph.vercel.app/graph?username=lanafaga091-create&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)" (https://github.com/lanafaga091-create)
+
+</div>---
+
+"> currently_learning"
+
+┌──────────────────────────────────────────────┐
+│                                              │
+│  [██████████████████░░] Linux                │
+│  [███████████████░░░░░] Cybersecurity       │
+│  [██████████████░░░░░░] Web Development     │
+│  [█████████████░░░░░░░] Python              │
+│  [████████████░░░░░░░░] Automation          │
+│  [███████████░░░░░░░░░] AI Tools            │
+│                                              │
+└──────────────────────────────────────────────┘
+
+---
+
+"> goals"
+
+- Build useful open-source tools
+- Improve Linux and programming skills
+- Create better web applications
+- Learn modern security practices
+- Build controlled security laboratories
+- Explore AI-assisted development
+- Contribute more projects to GitHub
+
+---
+
+"> security_principles"
+
+┌─────────────────────────────────────────────┐
+│              SECURITY PRINCIPLES             │
+├─────────────────────────────────────────────┤
+│                                             │
+│  ✓ Learn responsibly                        │
+│  ✓ Test only with authorization             │
+│  ✓ Protect user data                        │
+│  ✓ Use isolated laboratories                │
+│  ✓ Document findings                        │
+│  ✓ Improve security through knowledge       │
+│                                             │
+└─────────────────────────────────────────────┘
+
+---
+
+"> connect"
+
+<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-lanafaga091--create-181717?style=for-the-badge&logo=github)" (https://github.com/lanafaga091-create)
+
+</div>---
+
+<div align="center">"SYSTEM STATUS: ONLINE"
+
+> Keep learning.
+> Keep building.
+> Keep testing.
+> Keep improving.
+
+Thanks for visiting my profile. ⭐
+
+</div>---
+
+<div align="center"><sub>Designed as an original profile README for lanafaga091-create.</sub>
 
 </div>
