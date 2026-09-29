@@ -18,12 +18,12 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│                  PROFILE STATUS                  │
+│                  PROFILE STATUS                           │
 ├──────────────────────────────────────────────────┤
-│  OS / LAB     Linux • Debian • Termux            │
-│  FOCUS        Web • Automation • Security        │
-│  BUILD        Tools • Scripts • Applications     │
-│  APPROACH     Learn → Build → Test → Improve     │
+│  OS / LAB     Linux • Debian • Termux                     │
+│  FOCUS        Web • Automation • Security                 │
+│  BUILD        Tools • Scripts • Applications              │
+│  APPROACH     Learn → Build → Test → Improve            │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -72,11 +72,11 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 <div align="center">
 
 <a href="https://github.com/lanafaga091-create">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lanafaga091-create&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lanafaga091-create&show_icons=true&hide_border=true&theme=transparent&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
 </a>
 
 <a href="https://github.com/lanafaga091-create">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanafaga091-create&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanafaga091-create&layout=compact&hide_border=true&theme=transparent&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&langs_count=8" alt="Most used languages">
 </a>
 
 </div>
@@ -87,7 +87,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lanafaga091-create&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lanafaga091-create&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&title=Contribution%20Activity" alt="GitHub activity graph">
 
 </div>
 
@@ -99,7 +99,11 @@ The contribution animation below is generated automatically by GitHub Actions.
 
 <div align="center">
 
-<img src="./output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanafaga091-create/lanafaga091-create/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanafaga091-create/lanafaga091-create/output/github-contribution-grid-snake.svg">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/lanafaga091-create/lanafaga091-create/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -157,7 +161,7 @@ I prefer projects that are useful, understandable, and easy to improve.
 <div align="center">
 
 <a href="https://github.com/lanafaga091-create">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lanafaga091-create&repo=PasarKita&theme=transparent&hide_border=true" alt="PasarKita repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lanafaga091-create&repo=PasarKita&theme=transparent&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&hide_border=true" alt="PasarKita repository">
 </a>
 
 </div>
