@@ -2,7 +2,7 @@
 
 `lanafaga091-create`
 
-### Developer • Linux • Automation • Cybersecurity • AI
+Developer • Linux • Automation • Cybersecurity • AI
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Building+useful+open-source+tools;Linux+%7C+Debian+%7C+Termux;Web+Development+%7C+Automation;Cybersecurity+%7C+Security+Labs;Learning%2C+Building%2C+Improving" alt="Animated introduction">
@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About
+👋 About
 
 I'm a developer and technology enthusiast who enjoys building practical projects, experimenting with Linux environments, automation, web applications, and controlled cybersecurity labs.
 
@@ -29,7 +29,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-## ⚙️ What I Work With
+⚙️ What I Work With
 
 | Area | Focus |
 |---|---|
@@ -42,7 +42,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-## 🧰 Tech Stack
+🧰 Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-## 🔐 Security & Networking
+🔐 Security & Networking
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-## 📊 GitHub Overview
+📊 GitHub Overview
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-## 🎯 Current Focus
+🎯 Current Focus
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-## 🚀 Project Direction
+🚀 Project Direction
 
 ```text
 IDEA
@@ -128,7 +128,7 @@ IMPROVE‎ ‎ ‎ ‎ ‎██████████████████
 
 ---
 
-## 🛡️ Security Principles
+🛡️ Security Principles
 
 - Test only systems where permission is granted.
 - Keep experiments inside controlled environments.
@@ -139,7 +139,7 @@ IMPROVE‎ ‎ ‎ ‎ ‎██████████████████
 
 ---
 
-## 📌 Featured Work
+📌 Featured Work
 
 <div align="center">
 
@@ -151,7 +151,7 @@ IMPROVE‎ ‎ ‎ ‎ ‎██████████████████
 
 ---
 
-## 🌐 GitHub
+🌐 GitHub
 
 <div align="center">
 
@@ -161,7 +161,7 @@ IMPROVE‎ ‎ ‎ ‎ ‎██████████████████
 
 <br><br>
 
-### `BUILD • TEST • LEARN • IMPROVE`
+`BUILD • TEST • LEARN • IMPROVE`
 
 </div>
 
