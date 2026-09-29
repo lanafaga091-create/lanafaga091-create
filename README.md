@@ -1,8 +1,8 @@
 <div align="center">
 
-`lanafaga091-create`
+# `lanafaga091-create`
 
-Developer • Linux • Automation • Cybersecurity • AI
+### Developer • Linux • Automation • Cybersecurity • AI
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Building+useful+open-source+tools;Linux+%7C+Debian+%7C+Termux;Web+Development+%7C+Automation;Cybersecurity+%7C+Security+Labs;Learning%2C+Building%2C+Improving" alt="Animated introduction">
@@ -12,24 +12,24 @@ Developer • Linux • Automation • Cybersecurity • AI
 
 ---
 
-👋 About
+## 👋 About
 
 I'm a developer and technology enthusiast who enjoys building practical projects, experimenting with Linux environments, automation, web applications, and controlled cybersecurity labs.
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│                  PROFILE STATUS                           │
+│                  PROFILE STATUS                  │
 ├──────────────────────────────────────────────────┤
-│  OS / LAB     Linux • Debian • Termux                     │
-│  FOCUS        Web • Automation • Security                 │
-│  BUILD        Tools • Scripts • Applications              │
-│  APPROACH     Learn → Build → Test → Improve            │
+│  OS / LAB     Linux • Debian • Termux            │
+│  FOCUS        Web • Automation • Security        │
+│  BUILD        Tools • Scripts • Applications     │
+│  APPROACH     Learn → Build → Test → Improve     │
 └──────────────────────────────────────────────────┘
 ```
 
 ---
 
-⚙️ What I Work With
+## ⚙️ What I Work With
 
 | Area | Focus |
 |---|---|
@@ -42,7 +42,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-🔐 Security & Networking
+## 🔐 Security & Networking
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-📊 GitHub Overview
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ---
 
-🚀 Project Direction
+## 🚀 Project Direction
 
 ```text
 IDEA
@@ -112,23 +112,25 @@ IMPROVE ◄───── DEBUG
 SHARE
 ```
 
-🎯 CURRENT MISSION
-
-[████████████████████░░] 90%
-
-BUILD‎ ‎ ‎ ‎ ‎ ‎ ████████████████████
-
-LEARN‎ ‎ ‎ ‎ ‎ ‎ ██████████████████░░
-
-RESEARCH‎ ‎ ‎ ████████████████░░░░
-
-TEST‎ ‎ ‎ ‎ ‎ ‎ ‎ █████████████████░░░
-
-IMPROVE‎ ‎ ‎ ‎ ‎███████████████████░
+I prefer projects that are useful, understandable, and easy to improve.
 
 ---
 
-🛡️ Security Principles
+### 🎯 CURRENT MISSION
+
+```text
+[████████████████████░░] 90%
+
+BUILD     ████████████████████
+LEARN     ██████████████████░░
+RESEARCH  ████████████████░░░░
+TEST      █████████████████░░░
+IMPROVE   ███████████████████░
+```
+
+---
+
+## 🛡️ Security Principles
 
 - Test only systems where permission is granted.
 - Keep experiments inside controlled environments.
@@ -139,19 +141,25 @@ IMPROVE‎ ‎ ‎ ‎ ‎██████████████████
 
 ---
 
-📌 Featured Work
+## 📌 Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/lanafaga091-create/PasarKita">
-  <img src="https://img.shields.io/badge/PasarKita-Repository-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="PasarKita repository">
+| Repository | Description |
+|---|---|
+| [🛡️ **cyber-security**](https://github.com/lanafaga091-create/cyber-security) | Open learning space for cybersecurity: guidebooks, Kali Linux on Termux, Debian/Ubuntu setup, website security, and professional techniques (Markdown notes) |
+| [🚀 **Rekomendasi-ai-agent-**](https://github.com/lanafaga091-create/Rekomendasi-ai-agent-) | Debian developer tools collection: installation guides for Odysseus, G0DM0D3, and OpenCode, plus troubleshooting |
+| [🛒 **PasarKita**](https://github.com/lanafaga091-create/PasarKita) | Web project: PasarKita |
+
+<a href="https://github.com/lanafaga091-create?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20all%20repositories-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="View all repositories">
 </a>
 
 </div>
 
 ---
 
-🌐 GitHub
+## 🌐 GitHub
 
 <div align="center">
 
@@ -161,7 +169,7 @@ IMPROVE‎ ‎ ‎ ‎ ‎██████████████████
 
 <br><br>
 
-`BUILD • TEST • LEARN • IMPROVE`
+### `BUILD • TEST • LEARN • IMPROVE`
 
 </div>
 
