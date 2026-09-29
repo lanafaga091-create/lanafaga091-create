@@ -18,12 +18,12 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│                  PROFILE STATUS                  │
+│                  PROFILE STATUS                           │
 ├──────────────────────────────────────────────────┤
-│  OS / LAB     Linux • Debian • Termux            │
-│  FOCUS        Web • Automation • Security        │
-│  BUILD        Tools • Scripts • Applications     │
-│  APPROACH     Learn → Build → Test → Improve     │
+│  OS / LAB     Linux • Debian • Termux                     │
+│  FOCUS        Web • Automation • Security                 │
+│  BUILD        Tools • Scripts • Applications              │
+│  APPROACH     Learn → Build → Test → Improve            │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -112,7 +112,15 @@ IMPROVE ◄───── DEBUG
 SHARE
 ```
 
-I prefer projects that are useful, understandable, and easy to improve.
+🎯 CURRENT MISSION
+
+[████████████████████░░] 90%
+
+BUILD       ████████████████████
+LEARN       ██████████████████░░
+RESEARCH    ████████████████░░░░
+TEST        █████████████████░░░
+IMPROVE     ███████████████████░
 
 ---
 
