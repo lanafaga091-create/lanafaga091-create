@@ -1,6 +1,6 @@
 <div align="center">
 
-# `lanafaga091-create`
+`lanafaga091-create`
 
 ### Developer • Linux • Automation • Cybersecurity • AI
 
