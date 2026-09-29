@@ -76,6 +76,8 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 <img src="https://img.shields.io/github/languages/top/lanafaga091-create/PasarKita?style=for-the-badge&color=111827" alt="Top language">
 <img src="https://img.shields.io/github/last-commit/lanafaga091-create/PasarKita?style=for-the-badge&color=111827" alt="Last commit">
 
+<img src="https://streak-stats.demolab.com/?user=lanafaga091-create&theme=dark&hide_border=true&background=00000000&ring=00FF88&fire=FF6A00&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak">
+
 </div>
 
 ---
