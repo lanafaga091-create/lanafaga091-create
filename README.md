@@ -71,36 +71,10 @@ I'm a developer and technology enthusiast who enjoys building practical projects
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details">
-
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" width="49%">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%">
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time">
-
-</div>
-
----
-
-## 🐍 Animated Contribution Graph
-
-The contribution animation below is generated automatically by GitHub Actions.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanafaga091-create/lanafaga091-create/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanafaga091-create/lanafaga091-create/output/github-contribution-grid-snake.svg">
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/lanafaga091-create/lanafaga091-create/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://img.shields.io/github/followers/lanafaga091-create?style=for-the-badge&logo=github&color=111827" alt="Followers">
+<img src="https://img.shields.io/github/stars/lanafaga091-create/PasarKita?style=for-the-badge&logo=github&color=111827" alt="PasarKita stars">
+<img src="https://img.shields.io/github/languages/top/lanafaga091-create/PasarKita?style=for-the-badge&color=111827" alt="Top language">
+<img src="https://img.shields.io/github/last-commit/lanafaga091-create/PasarKita?style=for-the-badge&color=111827" alt="Last commit">
 
 </div>
 
@@ -176,5 +150,13 @@ I prefer projects that are useful, understandable, and easy to improve.
 <br><br>
 
 ### `BUILD • TEST • LEARN • IMPROVE`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./matrix.svg" alt="Matrix rain animation" width="100%">
 
 </div>
