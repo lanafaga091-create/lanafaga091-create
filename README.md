@@ -1,180 +1,179 @@
-⚡ TAMAEL
+<div align="center">
 
-"Developer" • "AI Builder" • "Cybersecurity Enthusiast" • "Linux"
+# `lanafaga091-create`
 
-«Building tools, experimenting with systems, and turning ideas into working projects.»
+### Developer • Linux • Automation • Cybersecurity • AI
 
----
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Building+useful+open-source+tools;Linux+%7C+Debian+%7C+Termux;Web+Development+%7C+Automation;Cybersecurity+%7C+Security+Labs;Learning%2C+Building%2C+Improving" alt="Animated introduction">
+</p>
 
-🧩 WHO AM I?
-
-┌─────────────────────────────────────────────┐
-│                 TAMAEL                      │
-├─────────────────────────────────────────────┤
-│ 🌐 Username     : lanafaga091-create        │
-│ 📍 Region       : Indonesia 🇮🇩              │
-│ 🐧 Environment  : Linux / Debian            │
-│ 🤖 Interests    : AI & Automation           │
-│ 🔐 Security     : Defensive / Pentesting    │
-│ ⚙️ Style        : Build • Test • Improve    │
-└─────────────────────────────────────────────┘
-
-I enjoy building practical software, experimenting with Linux environments, creating automation, and learning how modern systems work.
-
-My projects are mostly focused on:
-
-- 🤖 AI & automation
-- 🔐 Cybersecurity research
-- 🐧 Linux & system tools
-- 🌐 Web development
-- ⚙️ Developer utilities
-- 📱 Android / Termux environments
+</div>
 
 ---
 
-🛠️ TECHNOLOGY STACK
+## 👋 About
 
-💻 Languages
+I'm a developer and technology enthusiast who enjoys building practical projects, experimenting with Linux environments, automation, web applications, and controlled cybersecurity labs.
 
-"Python" (https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-"JavaScript" (https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-"HTML5" (https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-"CSS3" (https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-"Bash" (https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-🤖 AI & Automation
-
-"AI" (https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=white)
-"Automation" (https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-
-🐧 Linux
-
-"Debian" (https://img.shields.io/badge/Debian-111827?style=for-the-badge&logo=debian&logoColor=A81D33)
-"Linux" (https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-"Termux" (https://img.shields.io/badge/Termux-111827?style=for-the-badge&logo=android&logoColor=3DDC84)
-
-🔐 Security & Networking
-
-"Nmap" (https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-"Wireshark" (https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-"Burp Suite" (https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-"Git" (https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+```text
+┌──────────────────────────────────────────────────┐
+│                  PROFILE STATUS                  │
+├──────────────────────────────────────────────────┤
+│  OS / LAB     Linux • Debian • Termux            │
+│  FOCUS        Web • Automation • Security        │
+│  BUILD        Tools • Scripts • Applications     │
+│  APPROACH     Learn → Build → Test → Improve     │
+└──────────────────────────────────────────────────┘
+```
 
 ---
 
-🔐 SECURITY LAB
+## ⚙️ What I Work With
 
-             SECURITY LAB
-                  │
-       ┌──────────┼──────────┐
-       │          │          │
-    RESEARCH   TESTING   DEFENSE
-       │          │          │
-       ├── Web Security     │
-       ├── Network Analysis │
-       ├── Linux Security   │
-       ├── Automation       │
-       └── Security Tools   │
-
-Security-related projects are developed for learning, authorized testing, research, and defensive purposes.
-
-Areas I'm exploring:
-
-- Web application security
-- Network reconnaissance
-- Linux security
-- Security automation
-- Vulnerability research
-- CTF / laboratory environments
-- Secure software development
+| Area | Focus |
+|---|---|
+| 🐧 Linux | Debian, Termux, XFCE, shell environments |
+| 🌐 Web | Websites, dashboards, modern UI |
+| 🤖 AI | AI-assisted development and automation |
+| 🔐 Security | Authorized testing, labs, networking |
+| ⚡ Automation | Bash, scripts, workflows |
+| 📦 Open Source | GitHub projects and reusable tools |
 
 ---
 
-🚀 PROJECT WORKSPACE
+## 🧰 Tech Stack
 
-Some of the areas I'm building and experimenting with:
+<div align="center">
 
-Project Area| Description
-🤖 AI Agents| Experiments with AI-powered tools and workflows
-🔐 Cyber Security| Security utilities and controlled testing environments
-🐧 Linux Tools| Debian, Termux and system automation
-🌐 Web Projects| Modern websites and web applications
-⚙️ Automation| Scripts that simplify repetitive tasks
-🎮 Server Projects| Game-server and hosting related experiments
+<img src="https://skillicons.dev/icons?i=linux,debian,android,bash,python,js,html,css,git,github,vscode&perline=11" alt="Technology stack">
+
+</div>
 
 ---
 
-🎯 CURRENT MISSION
+## 🔐 Security & Networking
 
-[████████████████████░░] 90%
+<div align="center">
 
-BUILD       ████████████████████
-LEARN       ██████████████████░░
-RESEARCH    ████████████████░░░░
-TEST        █████████████████░░░
-IMPROVE     ███████████████████░
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logoColor=white" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark">
+<img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Linux%20Security-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux Security">
 
-Currently exploring
+</div>
 
-- 🧠 AI-powered development
-- 🔐 Cybersecurity
-- 🐧 Debian & Linux administration
-- 📱 Android + Termux
-- 🌐 Web application development
-- ⚡ Automation
-- ☁️ Deployment & server management
+> Security projects are intended for learning, authorized testing, defensive research, and isolated laboratories.
 
 ---
 
-📊 GITHUB ACTIVITY
+## 📊 GitHub Overview
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lanafaga091-create&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=lanafaga091-create&theme=transparent&hide_border=true" /></div>---
+<div align="center">
 
-💻 CONTRIBUTION GRAPH
+<a href="https://github.com/lanafaga091-create">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lanafaga091-create&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
+</a>
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lanafaga091-create&theme=github-compact&hide_border=true" /></div>---
+<a href="https://github.com/lanafaga091-create">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanafaga091-create&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages">
+</a>
 
-📈 LANGUAGES
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanafaga091-create&layout=compact&theme=transparent&hide_border=true" /></div>---
-
-🧠 DEVELOPMENT PHILOSOPHY
-
-Think
-  ↓
-Build
-  ↓
-Break
-  ↓
-Understand
-  ↓
-Fix
-  ↓
-Improve
-  ↓
-Repeat
-
-«Don't just use technology. Understand how it works.»
+</div>
 
 ---
 
-🌐 FIND ME
+## 📈 Activity
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-lanafaga091--create-181717?style=for-the-badge&logo=github)" (https://github.com/lanafaga091-create)
+<div align="center">
 
-</div>---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lanafaga091-create&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph">
 
-⭐ SUPPORT
+</div>
 
-If one of my projects helps you, feel free to star the repository and explore the other projects on my profile.
+---
 
-╔════════════════════════════════════════════╗
-║                                            ║
-║       BUILD • LEARN • TEST • IMPROVE       ║
-║                                            ║
-║                  TAMAEL                    ║
-║                                            ║
-╚════════════════════════════════════════════╝
+## 🐍 Animated Contribution Graph
 
-"// END OF PROFILE"
+The contribution animation below is generated automatically by GitHub Actions.
+
+<div align="center">
+
+<img src="./output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| Focus | Direction |
+|:---:|---|
+| 🐧 | Linux & Debian environments |
+| 🌐 | Web application development |
+| 🤖 | AI-assisted development |
+| 🔐 | Security research & controlled labs |
+| ⚡ | Automation & developer tooling |
+| 📱 | Android / Termux workflows |
+
+</div>
+
+---
+
+## 🚀 Project Direction
+
+```text
+IDEA
+ │
+ ▼
+BUILD ───────► TEST
+ │               │
+ ▼               ▼
+IMPROVE ◄───── DEBUG
+ │
+ ▼
+SHARE
+```
+
+I prefer projects that are useful, understandable, and easy to improve.
+
+---
+
+## 🛡️ Security Principles
+
+- Test only systems where permission is granted.
+- Keep experiments inside controlled environments.
+- Protect credentials and user data.
+- Document findings clearly.
+- Prefer defensive learning and responsible disclosure.
+- Turn experiments into safer, reusable knowledge.
+
+---
+
+## 📌 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/lanafaga091-create">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lanafaga091-create&repo=PasarKita&theme=transparent&hide_border=true" alt="PasarKita repository">
+</a>
+
+</div>
+
+---
+
+## 🌐 GitHub
+
+<div align="center">
+
+<a href="https://github.com/lanafaga091-create">
+  <img src="https://img.shields.io/badge/GitHub-lanafaga091--create-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+</a>
+
+<br><br>
+
+### `BUILD • TEST • LEARN • IMPROVE`
+
+</div>
